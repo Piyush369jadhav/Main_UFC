@@ -1,0 +1,5 @@
+{
+  "name": "mian UFC Upcoming Events Tracker",
+  "description": "Track upcoming UFC fights and events with automatic conversion to IST.",
+  "requestFramePermissions": []
+}
